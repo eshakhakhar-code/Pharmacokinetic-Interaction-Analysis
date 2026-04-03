@@ -1,2 +1,4 @@
 # Pharmacokinetic-Interaction-Analysis
 An integrated research framework for quantifying drug-drug interactions using Fractional Differential Equations (FDE) and predicting clinical outcomes through machine learning. Features a production-ready analytical engine and exploratory data visualizations of FDA-documented interactions
+FDA_interaction.ipynb: An interactive Jupyter Notebook focused on Exploratory Data Analysis (EDA), data visualization, and storytelling. It includes multiple plots (bar charts, network graphs, scatter plots) to explain the model's feature importance and accuracy.
+fda_interaction_analysis.py: A production-ready, Object-Oriented Python script. This version encapsulates the data cleaning, network generation, and machine learning pipeline into a reusable class structure for automated execution.
